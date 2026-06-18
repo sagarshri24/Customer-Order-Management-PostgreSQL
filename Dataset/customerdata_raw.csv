@@ -1,0 +1,601 @@
+﻿customer_id,first_name,last_name,email,phone,city,state,registration_date,customer_segment,account_status
+CUST00001,Mohammad,Rao,mohammad.rao95@hotmail.com,-7457223343,Mumbai,,14-06-2020,,Inactive
+CUST00002,Omar,Jackson,omar.jackson29@outlook.com,-9652310760,Indore,Madhya Pradesh,10-10-2021,Enterprise,Suspended
+CUST00003,Rohan,Hussain,rohan.hussain69@gmail.com,-8240320237,Bhopal,Madhya Pradesh,12-10-2018,Standard,Active
+CUST00004,Arjun,Jones,arjun.jones59@company.in,-7532958429,Jaipur,Rajasthan,02-12-2019,Standard,Pending
+CUST00005,Mohammad,Ahmed,mohammad.ahmed29@company.in,-9517617240,Kochi,Kerala,12-05-2024,Basic,Pending
+CUST00006,Fatima,Wilson,fatima.wilson34@yahoo.com,-8839480553,Chennai,Tamil Nadu,21-07-2019,Premium,Active
+CUST00007,Karan,Malik,karan.malik77@gmail.com,-8952671257,,Madhya Pradesh,09-01-2024,Basic,Pending
+CUST00008,Aarav,Hussain,aarav.hussain65@yahoo.com,-7348691868,Jaipur,Rajasthan,19-01-2024,VIP,Closed
+CUST00009,Priya,Rao,,-9877084273,Kanpur,Uttar Pradesh,31-05-2019,Enterprise,Inactive
+CUST00010,Steven,Davis,steven.davis70@company.in,-9336150766,Pune,Maharashtra,12-10-2020,,Closed
+CUST00011,Suresh,Sharma,,-7220814026,Bangalore,Karnataka,26-06-2019,VIP,Inactive
+CUST00012,Robert,Chopra,robert.chopra13@company.in,-8387963792,Hyderabad,Telangana,08-07-2022,Premium,Inactive
+CUST00013,Rahul,Davis,rahul.davis36@outlook.com,-7247067991,Kolkata,West Bengal,02-03-2018,Standard,Pending
+CUST00014,Jessica,Kumar,jessica.kumar49@gmail.com,-7869069547,Kolkata,West Bengal,17-06-2023,Basic,Active
+CUST00015,Chris,Kumar,chris.kumar8@gmail.com,-8647779524,Lucknow,Uttar Pradesh,21-08-2020,VIP,
+CUST00016,Ananya,Martinez,ananya.martinez73@rediffmail.com,-7854436681,Patna,Bihar,16-02-2023,,Closed
+CUST00017,Arjun,Gupta,arjun.gupta28@rediffmail.com,-8143618925,Kochi,Kerala,10-11-2024,,Closed
+CUST00018,Ahmed,Joshi,ahmed.joshi34@gmail.com,-9432782421,Chennai,Tamil Nadu,17-12-2020,Basic,Active
+CUST00019,Ashley,Agarwal,ashley.agarwal1@hotmail.com,-9087644244,Delhi,Delhi,03-09-2019,Basic,Inactive
+CUST00020,Rohan,Bose,rohan.bose6@hotmail.com,-7817697325,Kanpur,Uttar Pradesh,26-09-2019,Standard,Inactive
+CUST00021,Priya,Iyer,priya.iyer53@company.in,-9656642436,Lucknow,Uttar Pradesh,30-06-2020,Enterprise,Inactive
+CUST00022,Ahmed,Chopra,ahmed.chopra43@hotmail.com,-9534046494,Nagpur,Maharashtra,24-04-2018,Basic,
+CUST00023,Steven,Davis,steven.davis94@hotmail.com,-8675825066,Kanpur,,15-01-2024,Standard,Active
+CUST00024,Sarah,Robinson,sarah.robinson85@gmail.com,-7984076378,Lucknow,Uttar Pradesh,19-09-2022,Enterprise,Inactive
+CUST00025,Ritu,Garcia,ritu.garcia1@hotmail.com,-8408685928,Kochi,Kerala,27-11-2019,Basic,Closed
+CUST00026,Meera,Malik,meera.malik29@yahoo.com,-7151442001,Surat,Gujarat,15-06-2024,Enterprise,Inactive
+CUST00027,Omar,Sharma,omar.sharma55@yahoo.com,-9280377798,Hyderabad,Telangana,19-03-2023,VIP,Pending
+CUST00028,John,Davis,john.davis58@yahoo.com,-8555468900,Kochi,Kerala,06-09-2020,Premium,Inactive
+CUST00029,James,Jackson,james.jackson18@yahoo.com,-9273929937,Bangalore,Karnataka,27-04-2020,Enterprise,Closed
+CUST00030,Priya,Harris,priya.harris62@gmail.com,-7978461025,Nagpur,Maharashtra,06-10-2024,Enterprise,Pending
+CUST00031,David,Johnson,david.johnson93@yahoo.com,-7418291469,Nagpur,Maharashtra,22-10-2022,Enterprise,Suspended
+CUST00032,Neha,,neha.wilson44@outlook.com,-9726065164,Lucknow,Uttar Pradesh,04-12-2021,Premium,Active
+CUST00033,Meera,Chopra,meera.chopra80@yahoo.com,-8551797656,Mumbai,Maharashtra,17-10-2024,Premium,Inactive
+CUST00034,Arjun,Martin,arjun.martin40@rediffmail.com,-8229861899,Mumbai,Maharashtra,20-05-2021,VIP,Closed
+CUST00035,Michael,Jackson,michael.jackson85@hotmail.com,,Indore,Madhya Pradesh,27-02-2023,Enterprise,Closed
+CUST00036,Sunita,Robinson,sunita.robinson62@outlook.com,-9395487565,Kochi,Kerala,25-09-2020,VIP,Pending
+CUST00037,Stephanie,Smith,stephanie.smith63@yahoo.com,-7846554517,Kolkata,West Bengal,22-02-2020,Enterprise,Inactive
+CUST00038,Fatima,Sheikh,fatima.sheikh58@gmail.com,-7726162914,Visakhapatnam,Andhra Pradesh,09-10-2022,VIP,Pending
+CUST00039,Raj,Banerjee,raj.banerjee93@yahoo.com,-9434280145,Hyderabad,Telangana,11-08-2024,VIP,Active
+CUST00040,Vijay,Banerjee,,-8750226500,Kanpur,Uttar Pradesh,04-07-2023,Premium,Pending
+CUST00041,Sarah,Iyer,sarah.iyer33@outlook.com,-7214162430,Delhi,Delhi,29-05-2021,Standard,Pending
+CUST00042,Betty,Banerjee,betty.banerjee49@outlook.com,-7974387048,Coimbatore,Tamil Nadu,01-05-2020,Basic,Inactive
+CUST00043,Lisa,Gupta,lisa.gupta1@outlook.com,-8945871501,Kolkata,West Bengal,14-08-2020,VIP,Inactive
+CUST00044,Chris,Banerjee,chris.banerjee35@yahoo.com,-7543650228,Chennai,Tamil Nadu,30-05-2021,Basic,Pending
+CUST00045,Steven,Singh,steven.singh95@hotmail.com,-7084721879,Indore,,08-01-2021,Standard,Pending
+CUST00046,Pooja,Martin,pooja.martin82@outlook.com,-8540155516,Indore,Madhya Pradesh,23-07-2023,Enterprise,
+CUST00047,,Smith,ananya.smith42@gmail.com,-8324477358,Jaipur,Rajasthan,25-10-2023,Enterprise,Active
+CUST00048,Lisa,Verma,lisa.verma57@company.in,-7094592487,Surat,Gujarat,17-01-2019,Premium,Active
+CUST00049,Divya,Taylor,divya.taylor66@company.in,-9735273151,Surat,Gujarat,13-09-2023,Standard,Suspended
+CUST00050,Robert,Johnson,robert.johnson35@gmail.com,-7978386840,Coimbatore,Tamil Nadu,23-09-2021,VIP,Suspended
+CUST00051,Omar,Das,omar.das50@yahoo.com,-8346015629,Patna,Bihar,16-09-2019,Premium,Closed
+CUST00052,Arjun,Miller,,-7472363645,Hyderabad,Telangana,27-12-2024,Premium,Closed
+CUST00053,James,Khan,james.khan70@gmail.com,-7769292636,Visakhapatnam,Andhra Pradesh,16-02-2019,Basic,Active
+CUST00054,Sneha,Shah,sneha.shah48@outlook.com,-8740563917,Kanpur,Uttar Pradesh,13-12-2024,Enterprise,Inactive
+CUST00055,Mohammad,Mishra,,-9636670890,Bhopal,Madhya Pradesh,03-08-2024,Enterprise,Pending
+CUST00056,Amit,,amit.jones14@yahoo.com,-8176285250,Visakhapatnam,Andhra Pradesh,03-02-2018,Premium,Pending
+CUST00057,Vijay,Banerjee,vijay.banerjee46@yahoo.com,-9034542759,Vadodara,Gujarat,11-06-2018,,Suspended
+CUST00058,Ananya,Shah,ananya.shah96@outlook.com,-7433080610,Lucknow,Uttar Pradesh,28-05-2023,Basic,Suspended
+CUST00059,Amanda,Gupta,amanda.gupta97@yahoo.com,-9373198304,Chennai,Tamil Nadu,27-02-2018,Premium,Suspended
+CUST00060,Mohammad,Brown,mohammad.brown87@yahoo.com,-9030183493,Hyderabad,Telangana,22-05-2021,Premium,Active
+CUST00061,Stephanie,Rao,stephanie.rao31@rediffmail.com,-8486458538,Hyderabad,Telangana,25-09-2019,Premium,Closed
+CUST00062,Sunita,Singh,sunita.singh28@outlook.com,-7773657446,Kanpur,Uttar Pradesh,19-06-2022,Premium,Pending
+CUST00063,Neha,Ali,neha.ali3@gmail.com,-7798126414,Vadodara,Gujarat,12-08-2020,Standard,
+CUST00064,Divya,Verma,divya.verma33@yahoo.com,-9839113288,Kochi,,22-12-2020,Enterprise,Active
+CUST00065,Emily,Anderson,emily.anderson14@outlook.com,-9015515592,Patna,Bihar,08-05-2018,Enterprise,Pending
+CUST00066,Stephanie,Sheikh,stephanie.sheikh10@gmail.com,-7486018518,Bhopal,Madhya Pradesh,12-09-2024,Enterprise,Pending
+CUST00067,Omar,Rao,omar.rao93@yahoo.com,-9910039858,Kochi,Kerala,04-07-2021,Basic,Pending
+CUST00068,Ananya,Mehta,ananya.mehta13@company.in,-9660026963,Indore,Madhya Pradesh,19-12-2021,Enterprise,Active
+CUST00069,Steven,Bose,steven.bose14@rediffmail.com,-7507095988,Kanpur,Uttar Pradesh,15-02-2021,Enterprise,Closed
+CUST00070,Fatima,White,fatima.white78@company.in,-7876313703,Mumbai,,10-08-2019,,Active
+CUST00071,Jennifer,Malhotra,jennifer.malhotra54@outlook.com,-8212550755,Nagpur,Maharashtra,07-10-2019,Premium,Suspended
+CUST00072,Ashley,Taylor,ashley.taylor57@outlook.com,-9473777063,Vadodara,Gujarat,17-06-2021,Enterprise,
+CUST00073,Ritu,Malhotra,ritu.malhotra98@hotmail.com,-7393110922,Chennai,Tamil Nadu,07-04-2024,,Active
+CUST00074,Amanda,,amanda.gupta74@outlook.com,-9324893813,Lucknow,Uttar Pradesh,06-12-2024,,Active
+CUST00075,Karen,Garcia,karen.garcia11@outlook.com,-9443854409,Coimbatore,Tamil Nadu,05-03-2020,Basic,Inactive
+CUST00076,Divya,Mishra,divya.mishra23@rediffmail.com,-9487595827,Pune,Maharashtra,01-07-2024,VIP,Closed
+CUST00077,Mohammad,Smith,mohammad.smith57@gmail.com,-9068949600,Chennai,Tamil Nadu,04-06-2018,,Active
+CUST00078,John,Jones,john.jones75@rediffmail.com,-9421215285,Bhopal,Madhya Pradesh,10-09-2019,Enterprise,Suspended
+CUST00079,Ananya,Anderson,ananya.anderson6@yahoo.com,-8439878599,Kolkata,West Bengal,17-10-2021,Premium,Suspended
+CUST00080,Arjun,White,arjun.white37@hotmail.com,-9151488906,Nagpur,Maharashtra,25-05-2022,Premium,Pending
+CUST00081,Sarah,Verma,sarah.verma12@company.in,,Coimbatore,Tamil Nadu,26-02-2020,Standard,Suspended
+CUST00082,Arjun,Anderson,,-8103590915,Kochi,Kerala,10-11-2019,Premium,Inactive
+CUST00083,Betty,Shah,betty.shah30@rediffmail.com,-9649671383,Bhopal,Madhya Pradesh,28-02-2021,VIP,Inactive
+CUST00084,Steven,Verma,steven.verma7@company.in,-8216382593,Jaipur,Rajasthan,19-10-2019,VIP,Pending
+CUST00085,Suresh,Miller,,-8644958924,,Uttar Pradesh,05-10-2021,,Pending
+CUST00086,Rahul,Sheikh,,-7259612399,Visakhapatnam,Andhra Pradesh,01-04-2019,Standard,Active
+CUST00087,Mohammad,Robinson,mohammad.robinson9@gmail.com,-8637888124,Bhopal,Madhya Pradesh,07-01-2018,Standard,Inactive
+CUST00088,Ananya,Thomas,ananya.thomas9@rediffmail.com,-9576976444,Kanpur,Uttar Pradesh,04-11-2020,Basic,Suspended
+CUST00089,Ahmed,Khan,ahmed.khan99@rediffmail.com,,Hyderabad,Telangana,19-03-2023,Enterprise,Inactive
+CUST00090,Amanda,Singh,amanda.singh26@gmail.com,-9902515401,Surat,Gujarat,30-05-2018,Standard,Active
+CUST00091,Sarah,Agarwal,sarah.agarwal48@outlook.com,-9435667546,Hyderabad,Telangana,28-10-2023,Premium,Active
+CUST00092,Pooja,Jackson,pooja.jackson42@gmail.com,-9165748659,Surat,Gujarat,23-06-2018,Basic,Pending
+CUST00093,Sneha,Gupta,sneha.gupta47@rediffmail.com,-9226230878,Nagpur,,03-10-2018,Basic,
+CUST00094,Divya,Malik,divya.malik48@hotmail.com,-7251985134,Bhopal,Madhya Pradesh,17-04-2018,Enterprise,Closed
+CUST00095,Raj,Sheikh,raj.sheikh28@rediffmail.com,-8609536146,Bhopal,Madhya Pradesh,26-12-2018,Basic,Active
+CUST00096,Vijay,Bose,vijay.bose92@company.in,-9089632727,Kolkata,West Bengal,,VIP,Pending
+CUST00097,Lisa,Verma,lisa.verma12@gmail.com,-9349272648,Vadodara,Gujarat,31-10-2018,VIP,Closed
+CUST00098,Pooja,Verma,pooja.verma65@gmail.com,-8697729965,Indore,Madhya Pradesh,27-10-2023,Premium,Closed
+CUST00099,Mohammad,Bose,mohammad.bose69@gmail.com,-7552587478,Vadodara,Gujarat,27-04-2024,,Closed
+CUST00100,Neha,Harris,,-9913092112,Indore,Madhya Pradesh,22-07-2022,Premium,Inactive
+CUST00101,Daniel,Wilson,daniel.wilson44@rediffmail.com,-9822951762,Pune,Maharashtra,19-04-2024,Standard,Suspended
+CUST00102,Divya,Joshi,divya.joshi38@outlook.com,-8370142450,Delhi,Delhi,17-02-2020,Enterprise,Pending
+CUST00103,Ritu,Taylor,ritu.taylor12@outlook.com,-7788838108,Mumbai,Maharashtra,12-04-2023,Premium,Pending
+CUST00104,Raj,Hussain,raj.hussain98@outlook.com,-8312616614,Kanpur,Uttar Pradesh,02-03-2024,VIP,Active
+CUST00105,Arjun,Garcia,arjun.garcia44@rediffmail.com,-9473828818,,Uttar Pradesh,26-09-2021,VIP,Closed
+CUST00106,Rahul,Smith,rahul.smith41@yahoo.com,-9020149130,Vadodara,Gujarat,30-04-2023,Basic,Active
+CUST00107,Karen,Bose,karen.bose77@outlook.com,-9148285730,Mumbai,Maharashtra,13-12-2024,Enterprise,
+CUST00108,Omar,Rao,omar.rao3@outlook.com,-7496264036,Pune,Maharashtra,13-09-2018,VIP,Suspended
+CUST00109,Daniel,Thomas,daniel.thomas41@yahoo.com,-8746954778,Nagpur,Maharashtra,18-12-2020,Standard,Suspended
+CUST00110,Suresh,Bose,suresh.bose91@yahoo.com,-8602351464,Surat,Gujarat,06-06-2024,Enterprise,Pending
+CUST00111,Divya,Shah,divya.shah37@company.in,-8449595888,Delhi,Delhi,17-01-2021,VIP,Inactive
+CUST00112,Ahmed,Thomas,,-8354353201,,Gujarat,09-10-2019,Enterprise,Inactive
+CUST00113,Vijay,Smith,vijay.smith83@gmail.com,-7293195407,Surat,Gujarat,19-12-2019,Standard,Active
+CUST00114,Jessica,Taylor,jessica.taylor96@hotmail.com,-7030349019,Kolkata,West Bengal,04-02-2024,Standard,Pending
+CUST00115,Kavya,Johnson,kavya.johnson94@outlook.com,,Kolkata,West Bengal,07-11-2024,Enterprise,Closed
+CUST00116,Jessica,Hassan,jessica.hassan24@yahoo.com,-7812810804,Hyderabad,Telangana,,Basic,Active
+CUST00117,Amanda,Bose,amanda.bose52@company.in,-9933150669,Kolkata,West Bengal,02-07-2019,Enterprise,Closed
+CUST00118,Omar,White,omar.white97@rediffmail.com,-9705338536,Visakhapatnam,Andhra Pradesh,04-12-2023,Premium,Active
+CUST00119,Lisa,Anderson,lisa.anderson74@rediffmail.com,-8075178111,Pune,Maharashtra,30-12-2022,Enterprise,Pending
+CUST00120,Sneha,White,sneha.white87@hotmail.com,-8297443261,,Madhya Pradesh,19-09-2018,Premium,Active
+CUST00121,Daniel,Singh,daniel.singh53@yahoo.com,-9509493994,Surat,Gujarat,27-03-2022,VIP,Suspended
+CUST00122,Chris,Garcia,chris.garcia17@company.in,-9735510364,Coimbatore,Tamil Nadu,03-04-2022,Standard,Inactive
+CUST00123,Kavya,Singh,kavya.singh79@gmail.com,-7220423133,Indore,Madhya Pradesh,01-07-2018,Standard,Active
+CUST00124,Vijay,Banerjee,vijay.banerjee41@rediffmail.com,-9203751939,Patna,Bihar,01-02-2021,VIP,Inactive
+CUST00125,Ashley,White,ashley.white7@hotmail.com,-9199859867,Visakhapatnam,Andhra Pradesh,13-01-2024,Standard,Inactive
+CUST00126,Sneha,White,sneha.white54@rediffmail.com,-8272741740,Indore,Madhya Pradesh,03-01-2024,,Pending
+CUST00127,Steven,Singh,steven.singh25@rediffmail.com,-8831238353,Bangalore,,18-02-2020,Premium,Pending
+CUST00128,Omar,Thompson,omar.thompson51@yahoo.com,-9541247010,Pune,Maharashtra,30-07-2023,Enterprise,Suspended
+CUST00129,Emily,Smith,emily.smith6@rediffmail.com,,Indore,Madhya Pradesh,14-03-2020,Enterprise,Inactive
+CUST00130,Fatima,Malik,fatima.malik33@outlook.com,-9102774212,Lucknow,Uttar Pradesh,24-01-2020,VIP,Active
+CUST00131,Vikram,,vikram.hassan98@gmail.com,-9760892576,Delhi,Delhi,05-12-2024,VIP,
+CUST00132,,White,chris.white2@gmail.com,-7900280129,Indore,Madhya Pradesh,05-01-2020,Premium,Inactive
+CUST00133,Jennifer,Mishra,jennifer.mishra35@outlook.com,-8330470070,Kanpur,Uttar Pradesh,10-05-2018,Enterprise,Pending
+CUST00134,Aarav,Ahmed,aarav.ahmed11@outlook.com,-9113253329,Kolkata,West Bengal,15-05-2020,VIP,Active
+CUST00135,Aisha,Agarwal,,,Kochi,Kerala,12-11-2018,VIP,Pending
+CUST00136,Chris,Johnson,chris.johnson97@company.in,-9258720188,Nagpur,Maharashtra,27-10-2021,VIP,Pending
+CUST00137,James,Patel,james.patel58@outlook.com,-8812159116,Jaipur,Rajasthan,06-10-2020,Premium,Pending
+CUST00138,Mohammad,Nair,mohammad.nair41@hotmail.com,-7017050314,Nagpur,Maharashtra,31-03-2024,Enterprise,Active
+CUST00139,Ananya,Thompson,,-8355960738,Vadodara,Gujarat,05-11-2023,Enterprise,Suspended
+CUST00140,Stephanie,Nair,stephanie.nair22@outlook.com,-7982273378,Bangalore,Karnataka,30-11-2024,Premium,Active
+CUST00141,Sarah,Robinson,sarah.robinson43@outlook.com,-9672195241,Nagpur,Maharashtra,10-07-2021,Enterprise,Suspended
+CUST00142,Mohammad,Taylor,mohammad.taylor32@hotmail.com,-9675461411,Patna,Bihar,,Enterprise,Inactive
+CUST00143,Vijay,Ahmed,vijay.ahmed53@company.in,-9075349601,Bangalore,Karnataka,15-09-2024,Enterprise,Pending
+CUST00144,Emily,Ahmed,emily.ahmed77@company.in,-7358342445,,Kerala,25-06-2022,Basic,Pending
+CUST00145,Arjun,Mishra,arjun.mishra66@company.in,-8902285306,Ahmedabad,Gujarat,10-09-2019,Premium,Suspended
+CUST00146,Ananya,Rao,ananya.rao45@hotmail.com,-9569837023,Chennai,Tamil Nadu,03-10-2018,,Suspended
+CUST00147,Aisha,Reddy,aisha.reddy67@yahoo.com,-8084583289,Ahmedabad,Gujarat,06-11-2022,VIP,Pending
+CUST00148,David,Sharma,david.sharma27@hotmail.com,-9650018109,Pune,Maharashtra,12-04-2019,Enterprise,Suspended
+CUST00149,Betty,Garcia,betty.garcia15@hotmail.com,-8500390827,Patna,Bihar,03-07-2019,Standard,Inactive
+CUST00150,Divya,Anderson,divya.anderson54@rediffmail.com,-8257365357,Nagpur,Maharashtra,22-03-2024,Basic,Suspended
+CUST00151,Betty,Kumar,betty.kumar2@outlook.com,-9671260233,Kanpur,Uttar Pradesh,24-12-2022,Premium,Inactive
+CUST00152,Sunita,Banerjee,sunita.banerjee37@yahoo.com,-8853574830,Kochi,Kerala,11-02-2022,Premium,Pending
+CUST00153,Ashley,Joshi,ashley.joshi39@gmail.com,-8142221310,Ahmedabad,Gujarat,05-08-2024,VIP,Inactive
+CUST00154,Neha,Malhotra,neha.malhotra73@hotmail.com,-8955780526,Delhi,Delhi,09-10-2023,Premium,Pending
+CUST00155,Sunita,Ali,sunita.ali90@yahoo.com,-9331052126,Chennai,Tamil Nadu,05-01-2021,Enterprise,Active
+CUST00156,Sunita,Ahmed,sunita.ahmed59@outlook.com,-7008122117,Kanpur,Uttar Pradesh,30-12-2023,Enterprise,Pending
+CUST00157,Vijay,Johnson,vijay.johnson74@yahoo.com,-8590354963,Kochi,Kerala,08-03-2018,Standard,Active
+CUST00158,Ashley,Chopra,ashley.chopra84@hotmail.com,-9872445825,Chennai,Tamil Nadu,01-08-2018,Basic,Inactive
+CUST00159,Ananya,,ananya.sheikh1@yahoo.com,-7434887723,Hyderabad,Telangana,26-09-2022,,Pending
+CUST00160,Arjun,Joshi,arjun.joshi48@hotmail.com,-9534427360,Lucknow,Uttar Pradesh,04-11-2019,Standard,Inactive
+CUST00161,Betty,Malik,betty.malik28@gmail.com,-7458726051,Bhopal,Madhya Pradesh,08-02-2021,Standard,Closed
+CUST00162,Vijay,Ahmed,vijay.ahmed85@hotmail.com,-8988776693,Mumbai,Maharashtra,07-09-2020,Premium,Closed
+CUST00163,Aarav,Brown,aarav.brown17@outlook.com,-8862465072,Lucknow,Uttar Pradesh,10-03-2018,Premium,Active
+CUST00164,Jessica,Anderson,jessica.anderson81@company.in,-8361265427,Surat,Gujarat,23-06-2021,Standard,Inactive
+CUST00165,Jessica,Martin,jessica.martin40@company.in,,Bangalore,Karnataka,20-06-2021,Standard,Inactive
+CUST00166,Karan,Taylor,karan.taylor67@rediffmail.com,-9361843889,Kanpur,Uttar Pradesh,01-05-2018,Enterprise,Active
+CUST00167,Mark,Khan,mark.khan64@outlook.com,-7181675393,Bangalore,Karnataka,18-04-2019,,Active
+CUST00168,Daniel,Brown,daniel.brown20@yahoo.com,-9809814544,Nagpur,Maharashtra,01-09-2022,Basic,Active
+CUST00169,Kavya,Anderson,kavya.anderson23@yahoo.com,,Delhi,Delhi,15-03-2024,Basic,Closed
+CUST00170,Betty,Das,betty.das48@rediffmail.com,-9531635523,Bhopal,Madhya Pradesh,08-04-2018,Basic,Active
+CUST00171,Aarav,Hassan,aarav.hassan95@company.in,-7672379352,Nagpur,Maharashtra,20-02-2021,Standard,Closed
+CUST00172,Emily,Wilson,emily.wilson75@gmail.com,-9088061597,Bangalore,Karnataka,05-12-2020,Enterprise,Suspended
+CUST00173,Sunita,Banerjee,sunita.banerjee26@yahoo.com,-8915924192,Bangalore,Karnataka,30-04-2020,Enterprise,Active
+CUST00174,Aisha,Bose,aisha.bose6@yahoo.com,-8074129350,Vadodara,Gujarat,01-12-2020,,Pending
+CUST00175,Lisa,Siddiqui,lisa.siddiqui32@gmail.com,-9634228231,Kochi,Kerala,29-06-2022,Premium,Suspended
+CUST00176,Vikram,Patel,vikram.patel26@company.in,-7422021964,,Karnataka,20-11-2019,Enterprise,Pending
+CUST00177,David,Malik,david.malik23@hotmail.com,-7613245951,Indore,Madhya Pradesh,23-04-2021,VIP,Active
+CUST00178,Rahul,Martinez,rahul.martinez83@rediffmail.com,-9628581167,Pune,Maharashtra,09-06-2023,VIP,Pending
+CUST00179,Priya,Smith,priya.smith29@gmail.com,,Vadodara,Gujarat,16-10-2019,Standard,Active
+CUST00180,Suresh,Harris,suresh.harris46@yahoo.com,-8941551590,,Maharashtra,14-05-2024,VIP,Pending
+CUST00181,,Taylor,pooja.taylor12@gmail.com,-7716912521,Delhi,Delhi,28-12-2019,,Inactive
+CUST00182,Divya,Rao,divya.rao47@gmail.com,-9169661760,Coimbatore,Tamil Nadu,25-11-2022,Enterprise,Inactive
+CUST00183,Lisa,Ahmed,lisa.ahmed46@yahoo.com,-9668832892,Vadodara,,04-06-2024,,Closed
+CUST00184,Betty,Banerjee,betty.banerjee14@outlook.com,-9442320107,Patna,Bihar,07-10-2021,Basic,Active
+CUST00185,Arjun,Hussain,arjun.hussain7@outlook.com,-8375131711,Mumbai,Maharashtra,18-05-2023,VIP,Inactive
+CUST00186,Vikram,Singh,vikram.singh3@hotmail.com,-7343119634,Surat,Gujarat,17-01-2019,VIP,Active
+CUST00187,Fatima,Reddy,,-8084936850,Vadodara,Gujarat,27-02-2021,,Closed
+CUST00188,Stephanie,Nair,stephanie.nair47@gmail.com,-7965196681,Delhi,Delhi,02-12-2018,Premium,Pending
+CUST00189,Ahmed,Mishra,ahmed.mishra83@rediffmail.com,-8215759905,Bangalore,Karnataka,05-01-2021,Standard,Active
+CUST00190,Michael,Jackson,michael.jackson97@rediffmail.com,-7199860647,Indore,Madhya Pradesh,23-08-2020,Premium,Active
+CUST00191,Jennifer,Harris,jennifer.harris19@gmail.com,-8471432568,Vadodara,Gujarat,17-11-2018,Enterprise,Inactive
+CUST00192,Raj,Smith,raj.smith12@outlook.com,-8808952655,,Karnataka,03-08-2024,Enterprise,Inactive
+CUST00193,Karen,Martin,karen.martin14@rediffmail.com,-9574747407,Hyderabad,Telangana,01-06-2024,Premium,Pending
+CUST00194,Steven,Malik,steven.malik5@outlook.com,,Nagpur,Maharashtra,26-05-2021,Enterprise,Active
+CUST00195,Suresh,Verma,suresh.verma96@outlook.com,-8051445222,Surat,Gujarat,26-07-2022,VIP,Active
+CUST00196,,Gupta,karan.gupta91@rediffmail.com,-9557578628,Surat,Gujarat,,Premium,Inactive
+CUST00197,Amanda,Anderson,amanda.anderson82@gmail.com,-7792758728,Nagpur,Maharashtra,11-11-2021,Basic,Active
+CUST00198,David,Kumar,david.kumar74@yahoo.com,-9121339414,,West Bengal,06-02-2018,Standard,Closed
+CUST00199,Suresh,Mishra,suresh.mishra40@company.in,-9106146003,Vadodara,Gujarat,03-11-2023,Enterprise,Active
+CUST00200,Ahmed,Brown,ahmed.brown83@rediffmail.com,-7978099616,Kochi,Kerala,05-12-2020,Basic,Closed
+CUST00201,Sneha,Thompson,sneha.thompson85@hotmail.com,-9363513245,Nagpur,Maharashtra,25-05-2018,VIP,Suspended
+CUST00202,Suresh,Malik,suresh.malik82@outlook.com,-9201556897,Kochi,Kerala,04-02-2019,Basic,Closed
+CUST00203,Pooja,Malik,pooja.malik84@gmail.com,-7731850159,Lucknow,Uttar Pradesh,28-04-2019,VIP,Closed
+CUST00204,Amit,Anderson,amit.anderson88@outlook.com,-8353616995,Hyderabad,Telangana,18-02-2023,Standard,Pending
+CUST00205,Pooja,Smith,pooja.smith1@outlook.com,-9494232008,Delhi,Delhi,12-11-2022,Enterprise,Pending
+CUST00206,Rohan,,rohan.jackson94@hotmail.com,-9922952142,,Maharashtra,15-07-2020,Basic,Active
+CUST00207,Karen,Bose,karen.bose9@gmail.com,-7952969668,Kolkata,West Bengal,04-11-2021,Enterprise,Inactive
+CUST00208,Jessica,Patel,jessica.patel29@company.in,-7692012781,Ahmedabad,,13-11-2020,,Active
+CUST00209,Fatima,Patel,fatima.patel89@gmail.com,-8246026108,Delhi,Delhi,18-05-2021,Premium,Suspended
+CUST00210,Omar,Verma,omar.verma14@rediffmail.com,-7385746963,Indore,Madhya Pradesh,13-11-2023,Basic,Suspended
+CUST00211,Lisa,Taylor,lisa.taylor89@outlook.com,-7008911580,Pune,Maharashtra,04-01-2019,Premium,Active
+CUST00212,Fatima,Banerjee,fatima.banerjee38@hotmail.com,-7327032807,Bhopal,Madhya Pradesh,20-04-2019,,Inactive
+CUST00213,Karan,Johnson,karan.johnson57@rediffmail.com,-9402122092,Kanpur,Uttar Pradesh,29-04-2022,Enterprise,Inactive
+CUST00214,Omar,Hussain,omar.hussain21@gmail.com,-8935773174,Delhi,Delhi,29-04-2018,Standard,Pending
+CUST00215,Robert,Miller,robert.miller9@hotmail.com,-7040598766,Delhi,Delhi,17-10-2021,VIP,Inactive
+CUST00216,Ahmed,Malik,ahmed.malik20@rediffmail.com,,Nagpur,Maharashtra,09-11-2019,Enterprise,Suspended
+CUST00217,Sneha,Anderson,sneha.anderson71@company.in,-9677440710,Ahmedabad,Gujarat,18-07-2021,Enterprise,Active
+CUST00218,Robert,Singh,robert.singh71@gmail.com,-9594589103,Kochi,Kerala,12-02-2023,Basic,Inactive
+CUST00219,Sarah,White,sarah.white77@outlook.com,-8190469223,Vadodara,Gujarat,10-04-2021,Basic,Active
+CUST00220,Stephanie,Verma,stephanie.verma14@hotmail.com,-7614525735,Indore,Madhya Pradesh,18-03-2019,Premium,Closed
+CUST00221,William,Wilson,william.wilson65@yahoo.com,-7014279424,Patna,Bihar,27-12-2019,Standard,Inactive
+CUST00222,Ahmed,Thompson,ahmed.thompson42@rediffmail.com,-8371889731,Vadodara,Gujarat,29-01-2023,Standard,Closed
+CUST00223,Omar,White,omar.white92@company.in,-9072838396,Lucknow,Uttar Pradesh,30-12-2019,Basic,Suspended
+CUST00224,Karen,,karen.harris87@company.in,-8749447386,Indore,Madhya Pradesh,06-08-2018,Standard,Inactive
+CUST00225,Aisha,Mishra,aisha.mishra8@company.in,,Chennai,Tamil Nadu,07-07-2020,VIP,Closed
+CUST00226,Omar,,omar.shah49@outlook.com,-9582499712,Delhi,Delhi,20-12-2022,Basic,Closed
+CUST00227,Amit,Hussain,amit.hussain38@outlook.com,-9236919669,Pune,Maharashtra,29-03-2024,Standard,
+CUST00228,Amanda,Sheikh,amanda.sheikh6@yahoo.com,-8955816574,Chennai,Tamil Nadu,03-03-2024,Basic,Inactive
+CUST00229,John,Reddy,john.reddy70@rediffmail.com,-8144938901,Indore,Madhya Pradesh,07-12-2024,VIP,Active
+CUST00230,Michael,Miller,michael.miller83@rediffmail.com,-7798915135,Ahmedabad,Gujarat,22-01-2024,Premium,Suspended
+CUST00231,John,Miller,john.miller6@hotmail.com,-7630851893,Visakhapatnam,Andhra Pradesh,31-01-2018,Standard,Inactive
+CUST00232,Ashley,Joshi,ashley.joshi69@company.in,-9429366956,Pune,Maharashtra,,,Suspended
+CUST00233,Mark,Banerjee,mark.banerjee53@outlook.com,-8325266666,,Rajasthan,17-09-2018,,Active
+CUST00234,John,Joshi,john.joshi88@hotmail.com,-7922467276,Surat,Gujarat,21-05-2022,VIP,Inactive
+CUST00235,Fatima,Brown,fatima.brown71@rediffmail.com,-7136810568,Mumbai,Maharashtra,09-11-2021,VIP,Inactive
+CUST00236,Raj,Chopra,raj.chopra24@company.in,-9792617037,Hyderabad,Telangana,05-04-2021,Basic,Closed
+CUST00237,Sarah,Williams,sarah.williams86@company.in,,Chennai,Tamil Nadu,20-07-2024,VIP,Suspended
+CUST00238,Karan,Sharma,karan.sharma32@yahoo.com,-9099867072,Lucknow,Uttar Pradesh,30-12-2022,Basic,Active
+CUST00239,Steven,,steven.mehta18@rediffmail.com,-9403692041,Jaipur,,11-07-2024,VIP,Active
+CUST00240,Chris,Jackson,chris.jackson84@yahoo.com,-7731787189,Visakhapatnam,Andhra Pradesh,,Standard,Closed
+CUST00241,John,Verma,john.verma21@yahoo.com,-8854096339,Bhopal,Madhya Pradesh,21-06-2023,Basic,Active
+CUST00242,Jennifer,Brown,jennifer.brown61@outlook.com,-7130794912,Nagpur,Maharashtra,14-12-2020,VIP,Pending
+CUST00243,Fatima,Gupta,fatima.gupta33@outlook.com,-7730377590,Coimbatore,Tamil Nadu,28-01-2018,Standard,Inactive
+CUST00244,Fatima,Agarwal,fatima.agarwal20@yahoo.com,-8972725418,Pune,Maharashtra,17-05-2023,Standard,
+CUST00245,Rohan,Verma,rohan.verma76@yahoo.com,-8679815045,Patna,Bihar,19-07-2022,VIP,Suspended
+CUST00246,Neha,Miller,neha.miller61@outlook.com,-9720963749,Vadodara,Gujarat,19-12-2020,Basic,Closed
+CUST00247,Suresh,Jones,,-8712876016,Nagpur,Maharashtra,,VIP,Active
+CUST00248,Ahmed,Verma,ahmed.verma70@gmail.com,-9539098849,,Gujarat,28-07-2020,Enterprise,Pending
+CUST00249,Omar,Harris,omar.harris55@yahoo.com,-9509540384,Hyderabad,Telangana,23-01-2018,Premium,Active
+CUST00250,David,Ali,david.ali89@hotmail.com,-7349230196,Pune,Maharashtra,11-11-2024,Enterprise,Pending
+CUST00251,Lisa,Moore,lisa.moore48@rediffmail.com,-7831550102,Kolkata,West Bengal,03-05-2019,Enterprise,Inactive
+CUST00252,John,,john.garcia71@rediffmail.com,-9316016731,Lucknow,Uttar Pradesh,24-09-2024,Premium,Suspended
+CUST00253,Rohan,Hussain,rohan.hussain52@rediffmail.com,,Nagpur,,24-10-2023,Premium,Closed
+CUST00254,Suresh,Robinson,suresh.robinson87@gmail.com,-9146309946,Kolkata,West Bengal,19-07-2022,,Active
+CUST00255,Lisa,Shah,lisa.shah75@hotmail.com,-9672246151,Kochi,,18-12-2019,Premium,Closed
+CUST00256,Kavya,Anderson,kavya.anderson69@rediffmail.com,-8450859333,Jaipur,Rajasthan,03-03-2023,Premium,Suspended
+CUST00257,Mohammad,Banerjee,mohammad.banerjee41@outlook.com,,Ahmedabad,Gujarat,01-11-2021,Standard,Suspended
+CUST00258,Mark,Agarwal,mark.agarwal96@company.in,-7623175313,Kolkata,West Bengal,19-10-2020,Basic,Active
+CUST00259,Ananya,Malik,ananya.malik79@gmail.com,-8774315448,Visakhapatnam,Andhra Pradesh,11-06-2024,Enterprise,Closed
+CUST00260,Suresh,Harris,suresh.harris7@rediffmail.com,,Chennai,Tamil Nadu,09-05-2019,Enterprise,
+CUST00261,Neha,Jones,neha.jones13@hotmail.com,-9824043948,Patna,Bihar,24-01-2020,Standard,Suspended
+CUST00262,Jessica,Agarwal,jessica.agarwal24@rediffmail.com,-8887099825,Bhopal,Madhya Pradesh,10-04-2022,Standard,Active
+CUST00263,Stephanie,Verma,stephanie.verma69@company.in,-8594549235,Coimbatore,Tamil Nadu,01-06-2020,Enterprise,Active
+CUST00264,Sarah,Mishra,sarah.mishra47@rediffmail.com,-9654243688,Kanpur,Uttar Pradesh,20-06-2024,VIP,Suspended
+CUST00265,Aisha,Anderson,aisha.anderson95@outlook.com,-8248690343,Visakhapatnam,Andhra Pradesh,13-10-2021,VIP,Active
+CUST00266,Sarah,Banerjee,sarah.banerjee41@company.in,-7876489258,Lucknow,Uttar Pradesh,01-08-2024,Enterprise,Inactive
+CUST00267,Rahul,Hussain,rahul.hussain85@hotmail.com,-9296020403,Ahmedabad,Gujarat,,Enterprise,Active
+CUST00268,Betty,Nair,betty.nair84@outlook.com,-7810647156,Bangalore,,01-01-2022,Basic,Pending
+CUST00269,Chris,Agarwal,chris.agarwal57@yahoo.com,-9285980594,Kochi,Kerala,15-11-2023,VIP,Suspended
+CUST00270,Suresh,Mehta,suresh.mehta40@hotmail.com,,Bhopal,Madhya Pradesh,,Enterprise,Pending
+CUST00271,Ashley,Shah,ashley.shah30@gmail.com,-7617963876,Vadodara,Gujarat,30-03-2022,Premium,Inactive
+CUST00272,Betty,Ahmed,betty.ahmed37@company.in,-9650345144,Jaipur,Rajasthan,05-12-2024,VIP,
+CUST00273,Sneha,Jackson,sneha.jackson24@gmail.com,-7409767373,Mumbai,Maharashtra,30-06-2021,Enterprise,Pending
+CUST00274,Rohan,Johnson,,-9541661344,Bangalore,Karnataka,21-02-2018,Standard,Pending
+CUST00275,Rohan,Chopra,rohan.chopra95@gmail.com,-7683071883,Bhopal,Madhya Pradesh,01-03-2024,Basic,Suspended
+CUST00276,Sneha,Hassan,sneha.hassan15@yahoo.com,-8063311883,Pune,,22-06-2018,Enterprise,Inactive
+CUST00277,Ananya,Das,ananya.das64@gmail.com,,Kolkata,West Bengal,22-06-2023,VIP,Suspended
+CUST00278,William,Hussain,william.hussain3@company.in,-9373727568,Pune,Maharashtra,01-07-2023,Standard,Suspended
+CUST00279,Sunita,Thompson,sunita.thompson21@gmail.com,-8472548663,Kochi,Kerala,30-01-2020,VIP,Closed
+CUST00280,Vikram,Hassan,vikram.hassan50@yahoo.com,-8630382190,Kochi,Kerala,01-10-2018,Standard,Active
+CUST00281,Stephanie,Chopra,stephanie.chopra5@rediffmail.com,-8273396144,,Telangana,,Standard,Active
+CUST00282,Mohammad,Kumar,mohammad.kumar72@company.in,-8362958283,Kanpur,Uttar Pradesh,29-05-2021,Standard,Active
+CUST00283,Suresh,Jackson,suresh.jackson25@yahoo.com,-7815184623,Nagpur,Maharashtra,19-06-2024,Enterprise,Pending
+CUST00284,Karan,Iyer,karan.iyer52@rediffmail.com,-7518379888,Kochi,Kerala,22-08-2021,Enterprise,Pending
+CUST00285,James,Thompson,james.thompson73@rediffmail.com,-9509082029,Ahmedabad,Gujarat,22-05-2018,,Inactive
+CUST00286,Ritu,Sharma,ritu.sharma29@yahoo.com,-7071146079,Surat,Gujarat,01-03-2023,Standard,Closed
+CUST00287,Raj,Bose,raj.bose74@outlook.com,-7712420027,Bangalore,Karnataka,18-06-2024,Premium,
+CUST00288,Mark,Jones,mark.jones8@hotmail.com,-9677666834,Bangalore,Karnataka,03-10-2024,,
+CUST00289,Chris,Harris,chris.harris42@rediffmail.com,-7501916530,Chennai,Tamil Nadu,04-01-2019,Basic,Inactive
+CUST00290,Ananya,Moore,ananya.moore96@gmail.com,-7860321060,Patna,Bihar,22-03-2020,VIP,Closed
+CUST00291,Jennifer,Das,jennifer.das10@hotmail.com,-8059799658,Ahmedabad,Gujarat,06-08-2021,Premium,Inactive
+CUST00292,Betty,Miller,,-9680940512,Vadodara,Gujarat,12-08-2018,VIP,
+CUST00293,Omar,Rao,,-7684880426,Surat,Gujarat,02-08-2019,Premium,
+CUST00294,,Kumar,karan.kumar26@company.in,-7173970852,Surat,Gujarat,15-01-2022,Premium,Pending
+CUST00295,David,Anderson,david.anderson41@outlook.com,-8741821446,Hyderabad,,10-10-2020,Basic,Pending
+CUST00296,Priya,Williams,priya.williams46@company.in,-8642546068,Kanpur,Uttar Pradesh,01-05-2018,Basic,Suspended
+CUST00297,Ahmed,Verma,ahmed.verma94@outlook.com,-9221690183,Bangalore,Karnataka,03-07-2021,Basic,Inactive
+CUST00298,Rahul,Martin,rahul.martin88@yahoo.com,-8012578565,Kochi,Kerala,02-05-2024,,Closed
+CUST00299,Kavya,Iyer,,-8044264178,Lucknow,Uttar Pradesh,26-01-2021,Standard,
+CUST00300,,Robinson,betty.robinson78@rediffmail.com,-8954140341,Jaipur,Rajasthan,12-10-2024,Basic,Pending
+CUST00301,Rahul,Reddy,rahul.reddy29@gmail.com,-7049145279,Pune,Maharashtra,27-12-2019,Enterprise,Pending
+CUST00302,Amanda,Das,amanda.das52@gmail.com,-9701159765,Indore,Madhya Pradesh,07-06-2018,Enterprise,Active
+CUST00303,Meera,Thomas,,-8269477558,Kochi,Kerala,17-03-2021,Enterprise,Active
+CUST00304,Divya,Wilson,divya.wilson12@company.in,-7589086644,Bhopal,Madhya Pradesh,03-01-2020,Standard,Active
+CUST00305,Omar,Ali,omar.ali92@company.in,-7374068812,Kolkata,West Bengal,12-11-2024,Enterprise,Active
+CUST00306,Sarah,Harris,sarah.harris21@yahoo.com,-9333216634,Chennai,Tamil Nadu,27-04-2019,,
+CUST00307,Stephanie,Taylor,stephanie.taylor1@rediffmail.com,-7779438335,Kochi,Kerala,29-09-2020,Basic,Closed
+CUST00308,Neha,Kumar,neha.kumar19@gmail.com,-7120328963,Kolkata,West Bengal,20-07-2018,Standard,Suspended
+CUST00309,Omar,Ahmed,omar.ahmed74@rediffmail.com,-8492085795,Vadodara,Gujarat,05-10-2018,,Pending
+CUST00310,Omar,Agarwal,omar.agarwal68@outlook.com,-9280037309,Lucknow,Uttar Pradesh,05-06-2023,VIP,Suspended
+CUST00311,James,Mishra,james.mishra74@rediffmail.com,-7425090425,Coimbatore,Tamil Nadu,01-11-2024,Basic,Active
+CUST00312,Amanda,Khan,amanda.khan95@yahoo.com,,Hyderabad,Telangana,27-02-2021,Premium,Closed
+CUST00313,Aarav,Rao,aarav.rao44@outlook.com,-9018413725,Lucknow,Uttar Pradesh,28-04-2023,Standard,Pending
+CUST00314,Chris,Johnson,,-8707449144,,Madhya Pradesh,20-09-2021,,Inactive
+CUST00315,Priya,Johnson,priya.johnson81@rediffmail.com,-8870989297,Nagpur,Maharashtra,12-07-2021,Basic,Pending
+CUST00316,Emily,Miller,emily.miller28@rediffmail.com,-7367758958,Surat,,31-05-2023,Standard,Pending
+CUST00317,Jennifer,Bose,jennifer.bose19@gmail.com,-8691398607,Lucknow,Uttar Pradesh,,Premium,Closed
+CUST00318,Sarah,Wilson,sarah.wilson14@rediffmail.com,,Delhi,Delhi,19-03-2021,Basic,Active
+CUST00319,Karan,Agarwal,karan.agarwal2@rediffmail.com,-7335436985,Hyderabad,Telangana,09-06-2024,Premium,Suspended
+CUST00320,Sneha,Verma,,-8256916960,Mumbai,Maharashtra,01-01-2023,Basic,Inactive
+CUST00321,Ahmed,Jackson,ahmed.jackson97@outlook.com,-7304471286,Bangalore,Karnataka,05-07-2020,VIP,Suspended
+CUST00322,Omar,Hassan,omar.hassan42@outlook.com,-7214172212,Lucknow,Uttar Pradesh,11-06-2024,Premium,Active
+CUST00323,Fatima,Gupta,fatima.gupta69@outlook.com,-8354741179,Surat,Gujarat,17-08-2024,Enterprise,Suspended
+CUST00324,Meera,Iyer,meera.iyer95@company.in,-8594524893,Bangalore,Karnataka,21-07-2022,Premium,Closed
+CUST00325,David,Smith,david.smith83@company.in,-7713028117,,Andhra Pradesh,04-09-2019,Basic,Closed
+CUST00326,Neha,Malik,neha.malik39@rediffmail.com,-9226749826,Lucknow,Uttar Pradesh,,VIP,Inactive
+CUST00327,Sneha,Brown,sneha.brown7@gmail.com,-9689456995,Kochi,Kerala,27-07-2021,Enterprise,Closed
+CUST00328,Pooja,Moore,pooja.moore25@rediffmail.com,-8180564596,Chennai,Tamil Nadu,06-03-2018,Enterprise,Inactive
+CUST00329,Fatima,Martinez,fatima.martinez90@rediffmail.com,-9042233475,Bhopal,Madhya Pradesh,06-10-2022,VIP,Inactive
+CUST00330,Sunita,Martinez,,-7124084377,Kochi,Kerala,27-11-2023,Basic,Active
+CUST00331,Betty,Mehta,betty.mehta61@company.in,-9191220143,Ahmedabad,Gujarat,01-01-2024,Enterprise,Pending
+CUST00332,Sarah,Martinez,sarah.martinez38@hotmail.com,-9277588242,Kanpur,Uttar Pradesh,24-11-2019,Basic,
+CUST00333,Stephanie,Mehta,stephanie.mehta65@gmail.com,-7910442945,,Tamil Nadu,17-12-2019,Standard,Suspended
+CUST00334,Raj,Ahmed,raj.ahmed63@yahoo.com,-9824614246,Ahmedabad,Gujarat,25-07-2023,Enterprise,Inactive
+CUST00335,Mohammad,Reddy,mohammad.reddy74@company.in,-7178094091,Pune,Maharashtra,05-05-2023,VIP,Pending
+CUST00336,Divya,Thomas,divya.thomas2@hotmail.com,-8470659979,,Madhya Pradesh,20-12-2021,Enterprise,Suspended
+CUST00337,Sunita,Joshi,sunita.joshi84@rediffmail.com,-9533498420,Jaipur,Rajasthan,07-01-2020,Premium,
+CUST00338,Arjun,Thomas,arjun.thomas88@outlook.com,-9376547041,Hyderabad,Telangana,07-06-2020,Premium,Active
+CUST00339,Steven,Verma,steven.verma85@company.in,-7605424437,Nagpur,Maharashtra,06-02-2021,Basic,Active
+CUST00340,Sneha,Jones,sneha.jones43@gmail.com,-9663344599,Nagpur,Maharashtra,09-07-2023,VIP,Inactive
+CUST00341,,Miller,arjun.miller14@gmail.com,-8872142755,Jaipur,,04-06-2018,Basic,Suspended
+CUST00342,,Sharma,mark.sharma91@outlook.com,-8323519097,Coimbatore,Tamil Nadu,12-05-2024,Basic,Suspended
+CUST00343,Mohammad,Ali,mohammad.ali47@rediffmail.com,-8114320454,Bangalore,Karnataka,23-04-2022,Basic,Active
+CUST00344,Michael,Taylor,michael.taylor81@outlook.com,-7458514588,Bangalore,Karnataka,24-01-2024,Enterprise,Pending
+CUST00345,Priya,Singh,priya.singh8@hotmail.com,-7140263059,Lucknow,Uttar Pradesh,07-01-2024,VIP,
+CUST00346,Divya,Taylor,,-9298094946,Mumbai,Maharashtra,12-02-2023,,Active
+CUST00347,Steven,Robinson,steven.robinson9@yahoo.com,-9659198827,Ahmedabad,Gujarat,23-05-2020,VIP,Active
+CUST00348,Divya,Martinez,divya.martinez90@hotmail.com,-8437441843,Kolkata,West Bengal,,,Active
+CUST00349,Ananya,Sheikh,ananya.sheikh37@outlook.com,-9596072300,Patna,Bihar,16-12-2019,Premium,Pending
+CUST00350,Ananya,Khan,,-7772135062,Surat,Gujarat,20-01-2024,Enterprise,Inactive
+CUST00351,Amit,Rao,amit.rao88@outlook.com,-7523597745,Chennai,Tamil Nadu,01-12-2024,,Active
+CUST00352,Pooja,Reddy,pooja.reddy63@rediffmail.com,-9932940750,Mumbai,Maharashtra,27-08-2021,Premium,Active
+CUST00353,Robert,Chopra,robert.chopra29@gmail.com,-8587317031,Nagpur,Maharashtra,13-07-2019,Standard,Suspended
+CUST00354,Rahul,Singh,rahul.singh8@hotmail.com,-9790670927,Patna,Bihar,09-11-2024,VIP,Inactive
+CUST00355,Jennifer,Taylor,jennifer.taylor76@outlook.com,-7914711810,Pune,Maharashtra,20-08-2024,VIP,Pending
+CUST00356,Rohan,Moore,rohan.moore5@outlook.com,-8570422753,,Tamil Nadu,11-06-2020,Basic,
+CUST00357,Ahmed,Bose,ahmed.bose91@outlook.com,,Kolkata,West Bengal,26-02-2022,Premium,Active
+CUST00358,Omar,Johnson,omar.johnson5@hotmail.com,-7884090190,Coimbatore,Tamil Nadu,13-08-2018,Basic,Active
+CUST00359,Amanda,Robinson,amanda.robinson47@hotmail.com,-8831018691,Delhi,Delhi,14-05-2023,VIP,Inactive
+CUST00360,Suresh,Smith,suresh.smith35@rediffmail.com,,Kanpur,Uttar Pradesh,19-12-2023,VIP,Pending
+CUST00361,Aisha,Ahmed,aisha.ahmed25@outlook.com,-8280133346,Bangalore,Karnataka,26-07-2023,Standard,Active
+CUST00362,Aisha,,aisha.jackson61@hotmail.com,,Chennai,Tamil Nadu,30-10-2023,Enterprise,Suspended
+CUST00363,Ahmed,Ahmed,ahmed.ahmed71@outlook.com,-8858727204,Coimbatore,Tamil Nadu,26-03-2021,Premium,Suspended
+CUST00364,Karan,Robinson,karan.robinson92@rediffmail.com,-7574697249,Kolkata,West Bengal,11-12-2022,Standard,Active
+CUST00365,,Nair,michael.nair58@rediffmail.com,-8748649435,Kanpur,Uttar Pradesh,04-08-2021,VIP,Suspended
+CUST00366,Vijay,Moore,vijay.moore97@rediffmail.com,-9620083995,Surat,Gujarat,14-06-2018,VIP,Active
+CUST00367,Suresh,Miller,,-9101435487,Kanpur,,15-01-2024,Premium,Pending
+CUST00368,James,Thompson,james.thompson66@gmail.com,-8183162017,Vadodara,Gujarat,10-12-2021,Enterprise,Active
+CUST00369,William,Siddiqui,william.siddiqui57@hotmail.com,-9385565461,Indore,Madhya Pradesh,27-05-2021,VIP,Active
+CUST00370,Karen,Jones,karen.jones1@outlook.com,-7895664240,Bangalore,Karnataka,13-04-2022,,Suspended
+CUST00371,Ritu,Taylor,ritu.taylor95@outlook.com,-9592610229,Kochi,Kerala,24-03-2021,Enterprise,
+CUST00372,Sunita,Taylor,sunita.taylor77@company.in,-8574484039,Bangalore,Karnataka,09-03-2022,,Suspended
+CUST00373,Sneha,Nair,sneha.nair60@company.in,-7535116841,Lucknow,Uttar Pradesh,10-12-2023,Premium,Inactive
+CUST00374,Steven,Reddy,steven.reddy42@hotmail.com,-9244549371,Kochi,Kerala,,VIP,Pending
+CUST00375,Karan,Joshi,karan.joshi20@rediffmail.com,-7617483133,Pune,Maharashtra,12-04-2019,Premium,Inactive
+CUST00376,Daniel,Williams,daniel.williams89@hotmail.com,-8448188244,Surat,Gujarat,01-05-2019,Standard,Suspended
+CUST00377,Rahul,Mehta,rahul.mehta89@gmail.com,-9538573381,Indore,Madhya Pradesh,31-08-2018,,Suspended
+CUST00378,Arjun,Rao,arjun.rao27@rediffmail.com,-7605497805,Vadodara,Gujarat,25-11-2021,VIP,Closed
+CUST00379,Mark,Gupta,mark.gupta75@gmail.com,-9345535015,,Telangana,26-05-2020,Enterprise,Closed
+CUST00380,Aisha,Joshi,aisha.joshi46@outlook.com,-8685039734,Kolkata,West Bengal,24-07-2023,Basic,Active
+CUST00381,Stephanie,Rao,stephanie.rao37@outlook.com,-8022368099,Nagpur,Maharashtra,03-05-2023,Basic,Pending
+CUST00382,Jessica,Miller,jessica.miller85@company.in,-7469761657,Coimbatore,Tamil Nadu,23-09-2018,Standard,Closed
+CUST00383,Jessica,Rao,jessica.rao55@company.in,-9506186182,Ahmedabad,Gujarat,06-10-2024,Enterprise,Inactive
+CUST00384,Arjun,Rao,arjun.rao63@outlook.com,-7441013804,Jaipur,Rajasthan,17-04-2022,Basic,Closed
+CUST00385,Vikram,Hassan,vikram.hassan99@outlook.com,-7661648386,Coimbatore,Tamil Nadu,,Premium,Active
+CUST00386,James,Jones,,-8824096339,Bhopal,Madhya Pradesh,13-05-2022,Premium,Pending
+CUST00387,Aisha,Jackson,aisha.jackson61@outlook.com,,Patna,Bihar,11-03-2021,Premium,Inactive
+CUST00388,Michael,Siddiqui,michael.siddiqui4@company.in,-7318966027,Patna,Bihar,02-07-2021,Premium,Active
+CUST00389,Priya,,priya.jackson5@outlook.com,-8384384364,Lucknow,,20-07-2021,Enterprise,Active
+CUST00390,Arjun,Ahmed,arjun.ahmed44@outlook.com,-9506497384,Pune,Maharashtra,05-11-2018,VIP,
+CUST00391,Mark,Garcia,mark.garcia80@company.in,-9351785693,Ahmedabad,Gujarat,09-05-2020,Premium,Suspended
+CUST00392,Ritu,Davis,ritu.davis41@yahoo.com,-7823391824,Kochi,Kerala,16-10-2023,VIP,Pending
+CUST00393,Mohammad,Jackson,mohammad.jackson99@outlook.com,,Vadodara,Gujarat,14-05-2021,Enterprise,Active
+CUST00394,Robert,Agarwal,robert.agarwal83@yahoo.com,-8970140859,Surat,Gujarat,17-03-2023,Enterprise,Active
+CUST00395,Sunita,Verma,sunita.verma34@hotmail.com,-7576694357,,Maharashtra,10-12-2018,Basic,Pending
+CUST00396,Ahmed,Hassan,ahmed.hassan51@company.in,-7773424580,Bangalore,Karnataka,22-11-2023,Premium,Active
+CUST00397,James,Johnson,james.johnson95@outlook.com,-9437840833,Patna,Bihar,31-07-2022,,Closed
+CUST00398,Kavya,Smith,kavya.smith55@outlook.com,-7910028902,,Kerala,,Premium,Inactive
+CUST00399,David,Bose,david.bose88@gmail.com,-7774567895,Kanpur,Uttar Pradesh,05-01-2019,Standard,Inactive
+CUST00400,Mohammad,Smith,mohammad.smith5@hotmail.com,-9697474356,Indore,Madhya Pradesh,16-02-2019,Basic,Suspended
+CUST00401,Lisa,Siddiqui,,-7170793975,Lucknow,Uttar Pradesh,05-06-2021,Premium,Inactive
+CUST00402,Fatima,Verma,fatima.verma88@outlook.com,-8046669086,Vadodara,Gujarat,28-02-2021,Enterprise,Pending
+CUST00403,Mark,Banerjee,mark.banerjee3@rediffmail.com,-9053339886,Mumbai,Maharashtra,01-07-2022,VIP,Active
+CUST00404,Karan,Harris,karan.harris2@company.in,-9534169377,Hyderabad,Telangana,26-12-2020,Enterprise,Pending
+CUST00405,,Malhotra,steven.malhotra94@company.in,-7591063455,Surat,Gujarat,14-10-2020,,Pending
+CUST00406,James,Ahmed,james.ahmed88@yahoo.com,-9321465390,Nagpur,Maharashtra,19-08-2020,Basic,Closed
+CUST00407,Rohan,Sharma,rohan.sharma65@rediffmail.com,-8293397892,Jaipur,Rajasthan,26-08-2023,Basic,Inactive
+CUST00408,Zara,Thomas,zara.thomas19@hotmail.com,-7144726669,Indore,Madhya Pradesh,14-12-2020,Basic,Pending
+CUST00409,James,Siddiqui,james.siddiqui98@yahoo.com,-9154293356,Visakhapatnam,,01-12-2020,Enterprise,
+CUST00410,Michael,Sheikh,michael.sheikh63@outlook.com,-9771629314,Kochi,Kerala,15-09-2023,VIP,Closed
+CUST00411,Aarav,,aarav.thomas24@outlook.com,-7806675197,Patna,Bihar,03-06-2022,Premium,
+CUST00412,Amanda,Sheikh,amanda.sheikh59@company.in,,Visakhapatnam,Andhra Pradesh,20-05-2024,Premium,Suspended
+CUST00413,Sneha,Siddiqui,sneha.siddiqui71@rediffmail.com,-8306943353,Bangalore,Karnataka,30-10-2019,Enterprise,Inactive
+CUST00414,Stephanie,Davis,stephanie.davis88@rediffmail.com,-9180722506,Surat,Gujarat,25-04-2024,Premium,Suspended
+CUST00415,Ashley,Khan,ashley.khan12@gmail.com,-8518898571,Indore,Madhya Pradesh,20-11-2023,Enterprise,Pending
+CUST00416,Rahul,Malik,rahul.malik32@rediffmail.com,-8862916164,Surat,Gujarat,19-03-2023,VIP,Suspended
+CUST00417,Ananya,Anderson,ananya.anderson15@company.in,-7588333791,Mumbai,Maharashtra,07-02-2023,Enterprise,Suspended
+CUST00418,Pooja,,pooja.malhotra11@company.in,-7849798174,Kolkata,West Bengal,09-05-2023,Enterprise,Closed
+CUST00419,Ritu,Robinson,ritu.robinson47@company.in,-9261998396,,Gujarat,07-03-2018,Standard,Inactive
+CUST00420,Divya,Ali,divya.ali56@company.in,-8764834932,Ahmedabad,Gujarat,17-09-2019,Enterprise,
+CUST00421,,Martin,william.martin26@hotmail.com,,Ahmedabad,Gujarat,24-07-2023,VIP,
+CUST00422,Jessica,,jessica.taylor76@company.in,-9223873859,Coimbatore,Tamil Nadu,02-01-2021,Enterprise,Active
+CUST00423,Fatima,Williams,,-7943735101,Bhopal,Madhya Pradesh,02-10-2024,Enterprise,Suspended
+CUST00424,David,Martinez,david.martinez61@yahoo.com,-7925521206,Kanpur,Uttar Pradesh,31-08-2022,Enterprise,Inactive
+CUST00425,Priya,Williams,priya.williams46@company.in,,Jaipur,Rajasthan,06-07-2020,Basic,Active
+CUST00426,Lisa,Agarwal,lisa.agarwal89@rediffmail.com,-7341216517,Chennai,Tamil Nadu,10-03-2019,VIP,Active
+CUST00427,Rohan,Anderson,rohan.anderson22@company.in,-7673057309,Hyderabad,Telangana,11-02-2019,Basic,Inactive
+CUST00428,Amit,Miller,amit.miller99@gmail.com,-9651471993,Indore,Madhya Pradesh,17-01-2022,Standard,Closed
+CUST00429,Suresh,,suresh.verma53@outlook.com,-9793177562,Indore,,21-10-2023,Premium,Pending
+CUST00430,Karan,Davis,karan.davis51@gmail.com,-9101929694,Delhi,Delhi,31-10-2023,Enterprise,Closed
+CUST00431,James,Williams,james.williams36@rediffmail.com,-7481262853,Mumbai,Maharashtra,15-11-2021,Enterprise,Suspended
+CUST00432,Chris,Johnson,chris.johnson93@company.in,-7412878128,Nagpur,Maharashtra,,VIP,Inactive
+CUST00433,Ritu,Hussain,ritu.hussain65@gmail.com,-9757758796,Indore,Madhya Pradesh,13-01-2023,Premium,Inactive
+CUST00434,Karen,Harris,karen.harris77@yahoo.com,-7932397323,Kochi,Kerala,11-10-2020,VIP,Suspended
+CUST00435,Divya,Sheikh,divya.sheikh53@gmail.com,-8392226956,Indore,Madhya Pradesh,27-10-2023,Basic,Pending
+CUST00436,Omar,Taylor,omar.taylor21@yahoo.com,-8588469902,Indore,Madhya Pradesh,,Standard,Suspended
+CUST00437,Kavya,Thompson,kavya.thompson15@gmail.com,-7948915188,Indore,Madhya Pradesh,25-04-2018,Standard,
+CUST00438,Ritu,Shah,ritu.shah24@company.in,-7400881675,Pune,Maharashtra,15-10-2021,Enterprise,Closed
+CUST00439,Rahul,Anderson,rahul.anderson98@outlook.com,-7488152535,Bhopal,Madhya Pradesh,20-10-2021,Enterprise,Active
+CUST00440,Zara,Patel,zara.patel81@company.in,-9114026133,Patna,Bihar,24-05-2024,Enterprise,Active
+CUST00441,Chris,Iyer,chris.iyer36@yahoo.com,-9312185872,Mumbai,Maharashtra,06-04-2018,Standard,Closed
+CUST00442,Raj,Mehta,raj.mehta13@rediffmail.com,-7471933851,Hyderabad,Telangana,21-11-2024,,Active
+CUST00443,Arjun,Smith,arjun.smith53@hotmail.com,,Chennai,Tamil Nadu,29-08-2023,Premium,Suspended
+CUST00444,Robert,Gupta,robert.gupta4@outlook.com,-9994112349,Visakhapatnam,Andhra Pradesh,30-05-2019,Enterprise,Closed
+CUST00445,,Brown,divya.brown22@yahoo.com,-8388582673,Kochi,Kerala,,Enterprise,Suspended
+CUST00446,David,Williams,david.williams75@rediffmail.com,-7528979913,Pune,Maharashtra,29-03-2024,Enterprise,Closed
+CUST00447,James,Malik,james.malik82@hotmail.com,-9319169247,Lucknow,Uttar Pradesh,,Standard,Active
+CUST00448,Aarav,Sharma,aarav.sharma53@rediffmail.com,-9304574000,Kolkata,West Bengal,07-05-2018,Enterprise,Suspended
+CUST00449,David,Thompson,david.thompson50@yahoo.com,-9660311014,,Uttar Pradesh,25-02-2021,Basic,Closed
+CUST00450,Zara,Banerjee,,-8614989342,Ahmedabad,Gujarat,20-05-2024,Standard,Closed
+CUST00451,Steven,Harris,steven.harris9@rediffmail.com,-7213126611,Kolkata,West Bengal,25-02-2020,Premium,Closed
+CUST00452,Aisha,White,aisha.white1@outlook.com,-9130016706,Bhopal,Madhya Pradesh,24-10-2023,Basic,Active
+CUST00453,Suresh,Kumar,suresh.kumar54@rediffmail.com,-7016961270,,Rajasthan,02-10-2022,Standard,Suspended
+CUST00454,Mohammad,Khan,mohammad.khan4@outlook.com,-7078787573,Hyderabad,Telangana,27-10-2021,Basic,Inactive
+CUST00455,Steven,Robinson,steven.robinson98@gmail.com,-8897026270,Bhopal,Madhya Pradesh,24-09-2018,Premium,Pending
+CUST00456,Betty,Khan,betty.khan9@gmail.com,-8832516751,Indore,Madhya Pradesh,21-09-2024,,Pending
+CUST00457,Ashley,Robinson,ashley.robinson13@hotmail.com,-9214313313,Vadodara,Gujarat,04-10-2018,Standard,Inactive
+CUST00458,Raj,Williams,raj.williams62@company.in,-7609241779,Indore,Madhya Pradesh,05-01-2022,VIP,Inactive
+CUST00459,Steven,Johnson,steven.johnson48@gmail.com,-9155098815,Surat,Gujarat,09-11-2021,Standard,Inactive
+CUST00460,Sarah,Chopra,sarah.chopra89@company.in,-8965353312,Visakhapatnam,Andhra Pradesh,06-03-2019,Premium,Active
+CUST00461,Omar,Banerjee,omar.banerjee80@yahoo.com,-9407053361,Bhopal,,10-02-2018,Premium,Inactive
+CUST00462,Amit,Khan,,-7097236008,Patna,Bihar,21-03-2024,,Suspended
+CUST00463,Priya,Malik,priya.malik49@company.in,-7363654261,Chennai,Tamil Nadu,29-11-2023,VIP,Active
+CUST00464,Rahul,Chopra,rahul.chopra69@outlook.com,-8041888493,Pune,Maharashtra,03-01-2024,Standard,Active
+CUST00465,Sunita,Verma,sunita.verma75@outlook.com,-7266771600,Coimbatore,Tamil Nadu,17-09-2023,VIP,Suspended
+CUST00466,Jennifer,Ahmed,jennifer.ahmed92@outlook.com,-8904462461,Visakhapatnam,Andhra Pradesh,26-01-2023,Enterprise,Pending
+CUST00467,Mark,Reddy,mark.reddy33@rediffmail.com,-9462920922,,Uttar Pradesh,09-10-2021,Enterprise,Suspended
+CUST00468,James,Agarwal,james.agarwal4@yahoo.com,-7870394496,Nagpur,Maharashtra,17-11-2018,Standard,Active
+CUST00469,Chris,Chopra,chris.chopra26@company.in,-7991999501,Lucknow,Uttar Pradesh,03-02-2024,Premium,Suspended
+CUST00470,Jessica,Garcia,,-9143377102,Patna,Bihar,09-05-2020,VIP,Closed
+CUST00471,Amanda,Johnson,amanda.johnson41@yahoo.com,-9287064656,Bangalore,Karnataka,10-06-2019,Premium,Suspended
+CUST00472,Robert,Davis,robert.davis98@company.in,,Nagpur,Maharashtra,14-09-2021,VIP,Closed
+CUST00473,David,Malhotra,david.malhotra9@rediffmail.com,-8555724148,Nagpur,Maharashtra,14-03-2024,VIP,Inactive
+CUST00474,David,Shah,david.shah30@hotmail.com,,Pune,Maharashtra,06-10-2019,Standard,Pending
+CUST00475,David,Malhotra,david.malhotra27@hotmail.com,-9325497044,Chennai,Tamil Nadu,23-02-2023,Premium,Pending
+CUST00476,Jessica,Thompson,jessica.thompson68@hotmail.com,-9881074259,Ahmedabad,Gujarat,13-02-2023,Basic,Inactive
+CUST00477,Pooja,Robinson,pooja.robinson59@outlook.com,-7601184438,Indore,Madhya Pradesh,12-01-2024,Premium,Inactive
+CUST00478,Robert,White,robert.white48@gmail.com,-8652852640,,,07-03-2023,Enterprise,
+CUST00479,Raj,Rao,raj.rao42@company.in,,Chennai,Tamil Nadu,17-02-2021,Standard,Closed
+CUST00480,Vijay,Rao,vijay.rao95@outlook.com,-9200011378,Kochi,,21-12-2023,Premium,Closed
+CUST00481,Zara,Hassan,zara.hassan50@company.in,,Hyderabad,Telangana,04-09-2020,Premium,Active
+CUST00482,Amit,Malik,amit.malik29@gmail.com,-9721296955,Bangalore,Karnataka,21-04-2024,VIP,Closed
+CUST00483,Ashley,Rao,ashley.rao28@gmail.com,-7568911874,Ahmedabad,Gujarat,14-02-2021,,Inactive
+CUST00484,Steven,Taylor,steven.taylor92@rediffmail.com,-9786884515,Hyderabad,Telangana,29-06-2019,Basic,Pending
+CUST00485,Priya,,priya.thompson58@outlook.com,-9430740373,,Bihar,24-05-2019,Enterprise,Closed
+CUST00486,Rahul,Brown,rahul.brown38@yahoo.com,,Visakhapatnam,Andhra Pradesh,08-09-2021,Basic,Active
+CUST00487,Robert,Ali,robert.ali97@gmail.com,-9401453329,Surat,Gujarat,30-06-2020,Enterprise,Inactive
+CUST00488,Aarav,Gupta,,-7463736676,Visakhapatnam,Andhra Pradesh,10-09-2023,Enterprise,Inactive
+CUST00489,Pooja,Thompson,pooja.thompson39@hotmail.com,-9082736307,Ahmedabad,Gujarat,19-11-2019,Enterprise,Pending
+CUST00490,Daniel,Patel,daniel.patel55@gmail.com,-7983787920,Nagpur,Maharashtra,06-03-2021,VIP,Suspended
+CUST00491,Daniel,Chopra,,-8640658963,Chennai,Tamil Nadu,29-06-2023,,Active
+CUST00492,Kavya,Jones,kavya.jones21@yahoo.com,-7836455597,Patna,Bihar,03-10-2022,Standard,Suspended
+CUST00493,Aisha,Patel,aisha.patel34@rediffmail.com,-9231729224,Chennai,,14-01-2019,Enterprise,Closed
+CUST00494,Ananya,Thomas,ananya.thomas55@yahoo.com,-7828649521,Pune,Maharashtra,31-12-2018,VIP,Suspended
+CUST00495,,Siddiqui,sunita.siddiqui96@outlook.com,-7021031981,Pune,Maharashtra,27-03-2021,Standard,Inactive
+CUST00496,Amit,Taylor,amit.taylor65@gmail.com,-9668537771,Kolkata,West Bengal,02-08-2022,VIP,Inactive
+CUST00497,Ananya,Jones,ananya.jones36@gmail.com,-8919040682,Hyderabad,Telangana,30-01-2018,Premium,Closed
+CUST00498,David,Thompson,david.thompson98@hotmail.com,-8550654084,Coimbatore,Tamil Nadu,08-09-2020,Enterprise,Active
+CUST00499,Sarah,Joshi,sarah.joshi59@company.in,,Mumbai,Maharashtra,15-10-2020,VIP,Pending
+CUST00500,Ahmed,Chopra,,-8180315906,Mumbai,Maharashtra,14-11-2024,Basic,Pending
+CUST00501,Omar,Joshi,omar.joshi38@rediffmail.com,-7469178073,,Maharashtra,23-12-2018,VIP,Pending
+CUST00502,William,Rao,william.rao85@rediffmail.com,-7693532247,Visakhapatnam,Andhra Pradesh,19-10-2019,Basic,Suspended
+CUST00503,Raj,Hassan,raj.hassan86@gmail.com,-8751592949,Visakhapatnam,Andhra Pradesh,26-09-2024,Basic,Pending
+CUST00504,Lisa,Davis,lisa.davis29@hotmail.com,-7287324508,Ahmedabad,Gujarat,15-02-2022,Basic,Closed
+CUST00505,Ritu,Kumar,ritu.kumar69@yahoo.com,-8388351805,Patna,Bihar,16-08-2024,,Pending
+CUST00506,Vijay,Banerjee,vijay.banerjee88@outlook.com,-7928629028,,Andhra Pradesh,20-08-2023,Premium,Closed
+CUST00507,Neha,Taylor,,-9654853574,Surat,Gujarat,04-08-2018,Standard,Pending
+CUST00508,Ahmed,Reddy,ahmed.reddy71@outlook.com,-9221371961,Mumbai,Maharashtra,10-03-2020,VIP,Inactive
+CUST00509,Karen,Kumar,karen.kumar59@company.in,-7450767827,Surat,Gujarat,07-02-2018,VIP,Inactive
+CUST00510,Ashley,Malik,ashley.malik8@gmail.com,-8552733453,Kolkata,West Bengal,01-09-2019,Enterprise,Active
+CUST00511,Stephanie,Bose,stephanie.bose23@company.in,-9542397823,Vadodara,Gujarat,29-12-2022,Premium,Active
+CUST00512,Ahmed,Anderson,ahmed.anderson3@rediffmail.com,-8876372757,Ahmedabad,Gujarat,12-11-2022,Standard,Active
+CUST00513,Chris,Iyer,chris.iyer90@gmail.com,-9678680218,Nagpur,Maharashtra,24-05-2019,Standard,Active
+CUST00514,Steven,Ahmed,steven.ahmed1@rediffmail.com,,Kolkata,West Bengal,24-05-2018,Premium,Suspended
+CUST00515,Karan,Davis,,-8702148365,Mumbai,Maharashtra,13-12-2021,VIP,Active
+CUST00516,Rohan,Das,rohan.das25@yahoo.com,-9728338117,Delhi,Delhi,23-12-2024,VIP,Pending
+CUST00517,Karan,Garcia,karan.garcia11@hotmail.com,-9275728684,Bhopal,Madhya Pradesh,29-02-2020,VIP,Closed
+CUST00518,Robert,Nair,,-8977942349,Lucknow,Uttar Pradesh,31-12-2018,Basic,Inactive
+CUST00519,Suresh,Agarwal,suresh.agarwal13@outlook.com,-7728159537,Mumbai,Maharashtra,08-08-2024,Enterprise,Suspended
+CUST00520,Vijay,White,vijay.white78@gmail.com,-7559551589,Jaipur,Rajasthan,18-12-2023,Enterprise,Inactive
+CUST00521,Aisha,Anderson,aisha.anderson85@yahoo.com,,Chennai,Tamil Nadu,29-10-2024,Enterprise,Suspended
+CUST00522,John,Shah,john.shah55@rediffmail.com,-9888139893,Jaipur,Rajasthan,05-01-2019,Premium,Active
+CUST00523,Sneha,Mehta,sneha.mehta71@outlook.com,-7035065481,Surat,Gujarat,21-12-2023,,Inactive
+CUST00524,Aarav,Sheikh,aarav.sheikh90@rediffmail.com,-7800296570,Indore,Madhya Pradesh,23-10-2024,Standard,Closed
+CUST00525,Pooja,Gupta,pooja.gupta18@rediffmail.com,-7166865316,Kanpur,Uttar Pradesh,18-01-2024,Premium,Pending
+CUST00526,Neha,Sharma,neha.sharma51@yahoo.com,-9106877480,Patna,Bihar,,Enterprise,Suspended
+CUST00527,Michael,Hussain,,-8411674402,Kolkata,West Bengal,29-01-2018,Basic,Pending
+CUST00528,Emily,Davis,emily.davis69@hotmail.com,-8437195928,Kolkata,West Bengal,23-03-2020,,Pending
+CUST00529,Sarah,Singh,sarah.singh86@yahoo.com,-9179844747,Kolkata,West Bengal,26-06-2022,Enterprise,Active
+CUST00530,Rahul,Nair,rahul.nair65@gmail.com,-7774916729,Kanpur,Uttar Pradesh,31-03-2021,Premium,Inactive
+CUST00531,John,Iyer,john.iyer36@gmail.com,-9296842330,Ahmedabad,Gujarat,20-08-2023,Standard,Closed
+CUST00532,Divya,Banerjee,,-7629729072,Hyderabad,Telangana,09-06-2021,Standard,Pending
+CUST00533,John,Davis,john.davis39@gmail.com,-7919355918,Delhi,,10-08-2021,Enterprise,Closed
+CUST00534,Pooja,Mishra,pooja.mishra47@hotmail.com,,Visakhapatnam,Andhra Pradesh,20-01-2022,VIP,Suspended
+CUST00535,Sunita,Malhotra,sunita.malhotra50@gmail.com,-7427592426,Patna,Bihar,20-02-2020,Enterprise,Active
+CUST00536,Betty,Johnson,betty.johnson93@outlook.com,-7661979843,Surat,Gujarat,14-04-2024,Basic,Active
+CUST00537,Vikram,Moore,vikram.moore68@rediffmail.com,-7547088441,Indore,Madhya Pradesh,19-02-2020,Enterprise,Closed
+CUST00538,Vikram,Reddy,vikram.reddy97@rediffmail.com,-9553861059,Bhopal,Madhya Pradesh,06-02-2018,VIP,Closed
+CUST00539,Suresh,Shah,suresh.shah71@gmail.com,-7149479844,Jaipur,Rajasthan,12-01-2021,Premium,Inactive
+CUST00540,Neha,Jackson,neha.jackson1@company.in,-8982958289,Hyderabad,Telangana,09-11-2024,Premium,Active
+CUST00541,Suresh,Hussain,suresh.hussain23@hotmail.com,-8760996064,Jaipur,Rajasthan,14-04-2022,Basic,Closed
+CUST00542,William,Banerjee,william.banerjee35@yahoo.com,-9646761743,Lucknow,Uttar Pradesh,19-01-2019,Enterprise,Inactive
+CUST00543,Stephanie,Hussain,,-7533833204,Kolkata,West Bengal,07-02-2023,Enterprise,Closed
+CUST00544,Aarav,Thompson,,-9708411685,Hyderabad,Telangana,08-08-2019,,Active
+CUST00545,Arjun,Jackson,arjun.jackson91@gmail.com,-8574283683,Lucknow,Uttar Pradesh,05-02-2024,VIP,Active
+CUST00546,Vijay,Joshi,,-7735013054,Coimbatore,Tamil Nadu,25-04-2022,Premium,Active
+CUST00547,Vijay,Williams,vijay.williams79@hotmail.com,-7277815590,Bangalore,Karnataka,08-09-2019,Basic,Suspended
+CUST00548,Arjun,Agarwal,arjun.agarwal85@hotmail.com,-9656519918,Visakhapatnam,Andhra Pradesh,29-08-2019,Enterprise,Active
+CUST00549,Sunita,Nair,sunita.nair42@yahoo.com,-8261656126,Bangalore,Karnataka,27-09-2021,Standard,Closed
+CUST00550,Chris,Taylor,chris.taylor69@yahoo.com,-8903765200,Kochi,Kerala,,Premium,Pending
+CUST00551,Kavya,Kumar,kavya.kumar47@yahoo.com,-7472382195,Kanpur,Uttar Pradesh,19-07-2019,Standard,Active
+CUST00552,Ashley,Brown,ashley.brown90@gmail.com,-7241772407,Delhi,Delhi,,Enterprise,Inactive
+CUST00553,Rahul,,rahul.siddiqui90@hotmail.com,-9367654124,Coimbatore,Tamil Nadu,12-05-2018,Standard,Active
+CUST00554,Ashley,Malik,ashley.malik71@company.in,-8874575690,Bhopal,Madhya Pradesh,27-03-2022,Standard,Pending
+CUST00555,Suresh,Garcia,suresh.garcia96@rediffmail.com,-7252971307,Kolkata,West Bengal,02-03-2022,Standard,Active
+CUST00556,,Johnson,steven.johnson31@hotmail.com,-7348818470,Mumbai,Maharashtra,13-05-2018,Premium,
+CUST00557,Daniel,Singh,daniel.singh41@gmail.com,-7027756655,Delhi,Delhi,28-12-2021,Premium,Closed
+CUST00558,Divya,Patel,divya.patel49@outlook.com,-9791914812,Patna,Bihar,06-08-2020,Standard,Inactive
+CUST00559,John,Thomas,john.thomas84@rediffmail.com,-8118768561,Vadodara,Gujarat,07-05-2022,VIP,Inactive
+CUST00560,Stephanie,Joshi,stephanie.joshi19@hotmail.com,-9612821334,Mumbai,Maharashtra,19-06-2024,,Pending
+CUST00561,Daniel,Mishra,daniel.mishra84@yahoo.com,,Bhopal,Madhya Pradesh,13-06-2019,VIP,Suspended
+CUST00562,Aisha,Martinez,aisha.martinez58@hotmail.com,-9236515502,Coimbatore,Tamil Nadu,02-02-2018,Premium,Inactive
+CUST00563,Vikram,Banerjee,vikram.banerjee60@company.in,-8526571314,Nagpur,Maharashtra,14-06-2022,Standard,Active
+CUST00564,Steven,Taylor,steven.taylor90@company.in,,Pune,Maharashtra,09-05-2018,,Suspended
+CUST00565,Daniel,Malhotra,daniel.malhotra28@gmail.com,-9240265342,Delhi,Delhi,06-05-2021,Enterprise,Closed
+CUST00566,Raj,Iyer,raj.iyer12@outlook.com,-9468048824,Delhi,Delhi,21-10-2019,Enterprise,Closed
+CUST00567,Aarav,White,aarav.white26@gmail.com,-8895590716,Vadodara,Gujarat,,Enterprise,Pending
+CUST00568,Kavya,Malik,kavya.malik34@rediffmail.com,-8476326387,,Madhya Pradesh,08-02-2020,VIP,Closed
+CUST00569,Michael,Malhotra,michael.malhotra87@rediffmail.com,,Pune,Maharashtra,11-02-2023,Basic,Closed
+CUST00570,Sarah,Rao,sarah.rao59@outlook.com,-8811287882,Kolkata,West Bengal,06-03-2021,Premium,Active
+CUST00571,Priya,Robinson,priya.robinson14@outlook.com,-9044181308,,Madhya Pradesh,19-09-2022,Enterprise,Active
+CUST00572,Daniel,Rao,daniel.rao60@outlook.com,,Kanpur,Uttar Pradesh,19-12-2020,Enterprise,Active
+CUST00573,Robert,Singh,robert.singh4@yahoo.com,-9755077930,Mumbai,Maharashtra,17-09-2020,Enterprise,Pending
+CUST00574,Mark,Davis,mark.davis82@outlook.com,-7569262746,Chennai,Tamil Nadu,28-08-2023,VIP,Suspended
+CUST00575,Karan,Smith,,-7037892339,Pune,Maharashtra,31-05-2024,Standard,Suspended
+CUST00576,Fatima,Banerjee,fatima.banerjee25@rediffmail.com,-9379959468,Surat,Gujarat,01-07-2024,Premium,Closed
+CUST00577,Divya,Shah,divya.shah24@gmail.com,-9767657278,Jaipur,Rajasthan,16-06-2023,Premium,Pending
+CUST00578,James,Khan,james.khan21@yahoo.com,-9961033328,Bhopal,Madhya Pradesh,21-11-2021,VIP,Active
+CUST00579,Raj,Rao,raj.rao78@gmail.com,-8697376984,Pune,,22-07-2019,Standard,Pending
+CUST00580,Ananya,Williams,ananya.williams84@hotmail.com,-9650974894,Kochi,Kerala,25-02-2021,Premium,Closed
+CUST00581,Neha,Hussain,neha.hussain56@outlook.com,-9448045517,Visakhapatnam,Andhra Pradesh,12-03-2022,Premium,Active
+CUST00582,,Martin,raj.martin38@rediffmail.com,-9113879442,Indore,Madhya Pradesh,05-01-2022,Standard,Suspended
+CUST00583,James,Rao,,-8077637928,Mumbai,Maharashtra,30-09-2024,Standard,Suspended
+CUST00584,Ahmed,Gupta,ahmed.gupta83@outlook.com,-8426051561,Patna,Bihar,29-01-2021,Premium,Closed
+CUST00585,David,Das,,-9566785374,Patna,Bihar,26-12-2023,Premium,Active
+CUST00586,Arjun,Martinez,arjun.martinez36@hotmail.com,-8311820364,Surat,Gujarat,05-02-2023,Premium,Closed
+CUST00587,Suresh,Kumar,suresh.kumar18@gmail.com,-9822567014,Mumbai,Maharashtra,11-01-2024,Premium,Active
+CUST00588,Ritu,Gupta,ritu.gupta43@company.in,-9662359658,Jaipur,Rajasthan,30-08-2019,Enterprise,Active
+CUST00589,Meera,Harris,meera.harris85@outlook.com,-8054873178,Visakhapatnam,Andhra Pradesh,19-09-2020,Standard,Active
+CUST00590,Sneha,Malhotra,sneha.malhotra86@yahoo.com,-8261734539,Mumbai,Maharashtra,07-07-2021,Basic,Inactive
+CUST00591,Arjun,Verma,arjun.verma47@outlook.com,-9843791236,Ahmedabad,Gujarat,12-06-2021,VIP,Inactive
+CUST00592,Arjun,Siddiqui,arjun.siddiqui31@gmail.com,,Hyderabad,Telangana,11-12-2018,Standard,Closed
+CUST00593,Sarah,Kumar,sarah.kumar35@hotmail.com,-9125460046,Bhopal,Madhya Pradesh,10-12-2023,VIP,Active
+CUST00594,Kavya,Banerjee,kavya.banerjee7@gmail.com,-7782318539,Hyderabad,Telangana,29-05-2022,Basic,Inactive
+CUST00595,Michael,Khan,michael.khan91@rediffmail.com,-7010122261,Surat,Gujarat,04-09-2020,Premium,Suspended
+CUST00596,Divya,,,-7864519998,Visakhapatnam,Andhra Pradesh,05-01-2018,Standard,Active
+CUST00597,Mark,Malik,mark.malik30@rediffmail.com,-9473929121,Surat,Gujarat,07-12-2021,Basic,Suspended
+CUST00598,Aarav,Williams,aarav.williams91@hotmail.com,-9537996932,Surat,Gujarat,26-03-2018,Enterprise,Inactive
+CUST00599,Priya,Das,priya.das95@company.in,-8177736950,Patna,Bihar,10-02-2024,Enterprise,Closed
+CUST00600,Aisha,Williams,aisha.williams51@rediffmail.com,-7905250452,Lucknow,Uttar Pradesh,07-02-2023,Basic,Active
